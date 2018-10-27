@@ -6,6 +6,7 @@
 - [x] 第04题：统计单词出现的次数<br>
 - [x] 第05题：爬链接里的妹子图片<br>
 - [x] 第06题：<br>
+- [x]<br>
 * **第01题.** 作为 Apple Store App 独立开发者，你要搞限时促销，为你的应用生成激活码（或者优惠券），使用 Python 如何生成 200 个激活码（或者优惠券）？<br>
 [生成优惠码](https://github.com/Tyella/Python_script/blob/master/01/uuid_file.py)<br>
 * **第02题.** 将 01 题生成的 200 个激活码（或者优惠券）保存到 MySQL 关系型数据库中。<br>
