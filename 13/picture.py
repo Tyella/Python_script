@@ -11,6 +11,7 @@ for s_image in s_images:
     img_url = s_image['src']
     img_content = requests.get(img_url).content
     file_name = str(i)+'.jpg'
-    with open('/home/Tyella/图片/'+file_name,'wb') as f:
+    #文件路径不能是root权限下的，否则文件无法保存
+    with open('/home/Tyella/图片/杉本有美/'+file_name,'wb') as f:
         f.write(img_content)
     i+=1
