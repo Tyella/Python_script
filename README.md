@@ -5,6 +5,7 @@
 - [x] 第03题：将生成的激活码保存到Redis数据库中<br>
 - [x] 第04题：统计单词出现的次数<br>
 - [x] 第05题：爬gsg取猫眼电影TOP100电影的相关信息<br>
+- [x] 第11题：敏感此文本<br>
 - [x] 第13题：爬取杉本有美的照片<br>
 - [x] 第14题：纯文本文件 student.txt写入xls文件中<br>
 - [x] 第15题：纯文本文件city.txt写入xls文件中<br>
@@ -21,6 +22,7 @@
 [统计单词出现的次数](https://github.com/Tyella/Python_script/blob/master/04/count_words.py)<br>
 * **第05题.** 爬取[猫眼电影](http://maoyan.com/board/4)TOP100电影的相关信息。<br>
 [爬取猫眼TOP100电影的相关信息](https://github.com/Tyella/Python_script/blob/master/05/maoyan_movie.py)<br>
+* **第11题.** 敏感词文本文件 filtered_words.txt，里面的内容为以下内容，当用户输入敏感词语时，则打印出 Freedom，否则打印出 Human Rights。<br>
 * **第13题.** 写一个爬虫程序，爬[这个链接里的妹子图片:-)](http://tieba.baidu.com/p/2166231880)<br>
 [杉本有美](https://github.com/Tyella/Python_script/blob/master/13/picture.py)<br>
 * **第14题.** ：纯文本文件 student.txt为学生信息, 里面的内容（包括花括号）如下所示：<br>
