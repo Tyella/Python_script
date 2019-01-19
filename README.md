@@ -25,7 +25,7 @@
 * **第11题.** 敏感词文本文件 filtered_words.txt，里面的内容为以下内容，当用户输入敏感词语时，则打印出 Freedom，否则打印出 Human Rights。<br>
 * **第13题.** 写一个爬虫程序，爬[这个链接里的妹子图片:-)](http://tieba.baidu.com/p/2166231880)<br>
 [杉本有美](https://github.com/Tyella/Python_script/blob/master/13/picture.py)<br>
-* **第14题.** ：纯文本文件 student.txt为学生信息, 里面的内容（包括花括号）如下所示：<br>
+* **第14题.** ：纯文本文件 student.txt为学生信息, 里面的内容如下所示：<br>
 > {<br>
 	 &nbsp;&nbsp;&nbsp;&nbsp;"1":["张三",150,120,100],<br>
 	 &nbsp;&nbsp;&nbsp;&nbsp;"2":["李四",90,99,95],<br>
